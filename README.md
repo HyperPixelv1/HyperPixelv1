@@ -1,8 +1,7 @@
 # 👋 Merhaba! 
 ## Yapay zeka, Doğal Dil İşleme(NLP), Veri Bilimi gibi alanlarla ilgilenmekteyim.
-## Şuan Full-Stack öğreniyorum.
 
-👋 Merhaba! Ben [Adınız], Yazılım Mühendisliği konusunda deneyimli bir geliştiriciyim. Yapay zeka ve veri bilimi konularında projeler geliştiriyorum ve yenilikçi çözümler üretiyorum. Öğrenmeye, öğretmeye ve topluluğa katkı sağlamaya hevesliyim.
+👋 Merhaba! Ben Furkan, Yapay Zeka konusuyla özellikle Doğal Dil İşleme ile ilgili projeler geliştiriyorum. Şu anda full-stack geliştirme öğreniyorum. Çoğu projemi devcontainer ortamında geliştirmeye özen gösteriyorum. 
 
 ### 🔧 Teknolojiler ve Araçlar
 - Programlama Dilleri: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 

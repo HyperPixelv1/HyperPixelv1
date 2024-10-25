@@ -6,7 +6,7 @@
 ### 🔧 Teknolojiler ve Araçlar
 - Programlama Dilleri: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=white)
 - Veritabanları: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- Araçlar: ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
+- Araçlar: ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 ### 📊 GitHub İstatistikleri
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HyperPixelv1&show_icons=true&theme=radical)

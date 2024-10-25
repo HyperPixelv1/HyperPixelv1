@@ -8,8 +8,8 @@
 - Araçlar: ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) 
 
 ### 📊 GitHub İstatistikleri
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HyperPixelv1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyperPixelv1&layout=compact&theme=radical)
 
 ### 💬 Bana Ulaşın
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/furkan-ya%C4%9F%C4%B1z-kur%C5%9Funlu-153b8a251)

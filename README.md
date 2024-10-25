@@ -1,5 +1,6 @@
-# 👋 Merhaba, ben [Adınız]! 
-## Yazılım Geliştirici | Yapay Zeka ve Veri Bilimi Uzmanı | Eğitmen
+# 👋 Merhaba! 
+## Yapay zeka, Doğal Dil İşleme(NLP), Veri Bilimi gibi alanlarla ilgilenmekteyim.
+## Şuan Full-Stack öğreniyorum.
 
 👋 Merhaba! Ben [Adınız], Yazılım Mühendisliği konusunda deneyimli bir geliştiriciyim. Yapay zeka ve veri bilimi konularında projeler geliştiriyorum ve yenilikçi çözümler üretiyorum. Öğrenmeye, öğretmeye ve topluluğa katkı sağlamaya hevesliyim.
 
@@ -13,5 +14,3 @@
 
 ### 💬 Bana Ulaşın
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/furkan-ya%C4%9F%C4%B1z-kur%C5%9Funlu-153b8a251)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/username)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
